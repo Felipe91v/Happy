@@ -10,11 +10,18 @@
 <a href="https://ibb.co/QHwBxrD"><img src="https://i.ibb.co/1XWV48z/cadastro2.jpg" alt="cadastro2" border="0"></a>
 </h1>
 
+
+<h3 align="center">    
+   <a href="https://nlw-happy-app.herokuapp.com/">Acessar Demonstração</a>
+</h3>    
+
 # Indice 
 
 - [Sobre](#-Sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
+
+---
 
 ## 📝 Sobre
 
